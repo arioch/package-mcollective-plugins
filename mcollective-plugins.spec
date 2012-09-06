@@ -1,5 +1,5 @@
 %define giturl git://github.com/puppetlabs/mcollective-plugins.git
-%define gitrev 9b90c2b
+%define gitrev 9086f02
 %define gituser puppetlabs
 
 %define plugindir %{_libexecdir}/mcollective/mcollective
