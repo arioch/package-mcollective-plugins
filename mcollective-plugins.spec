@@ -287,6 +287,9 @@ rm -rf %{buildroot}
 %{plugindir}/util/actionpolicy.rb
 
 %changelog
+* Thu Sep 6 2012 Tom De Vylder <tom@penumbra.be> 0.0.1-5
+- Bump repo revision.
+
 * Sat Jan 7 2012 Barrie Bremner <baz@barriebremner.com> 0.0.1-4
 - Bump repo revision.
 - Remove some unneccessary preparation jiggery in build
